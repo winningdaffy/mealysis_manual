@@ -9,7 +9,7 @@
 .. figure:: /images/device_config_param.png
     :width: 300px
     :align: center
-    :name: tool_file 
+    :name: device_config_param 
 
     设备配置文件格式
 

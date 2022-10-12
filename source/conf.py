@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'meas'
+project = 'Mealysis'
 copyright = '2021, powermac'
 author = 'powermac'
 
