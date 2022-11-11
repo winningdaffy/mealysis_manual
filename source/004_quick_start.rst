@@ -161,6 +161,33 @@
 
     数据记录状态
 
+外部触发记录
+~~~~~~~~~~~~~~~~~~
+
+仪器能够基于外部触发信号进行数据记录。
+
+(a) 触发设置
+
+点击 **记录** 按钮，打开记录数据设置工具条。 点击 **触发设置**, 如 :numref:`img_trigger_config` 所trigger_config示。
+
+.. figure:: /images/record_trigger_config.png
+    :align: center
+    :name: img_trigger_config
+
+    显示触发设置
+
+点击 **+** 按钮，添加一个新的触发条件，其中第一列可以选择上升沿或下降沿触发，第二列输入触发通道名称，添加完成后点击保存按钮保存设置。
+
+(b) 触发使能
+
+在 **测试** 工具条上按下 **触发使能** 按钮，当选择通道有触发信号时则开始自动记录。
+
+.. figure:: /images/enable_trigger.png
+    :align: center
+    :name: img_enable_trigger
+
+    触发使能
+
 
 查看数据文件
 --------------------------
