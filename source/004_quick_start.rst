@@ -124,7 +124,7 @@
 
     数据选择完成
 
-(d) 如果有实时采集的数据可以打开数据选择窗口，选择数据曲线来查看实时数据
+(d) 如果有实时采集的数据可以打开数据选择窗口，选择数据曲线来查看实时数据，如 :numref:`img_select_ch` 和 :numref:`img_measure_time_chart` 所示
 
 .. figure:: /images/frm_data_selector-select_ch.png
     :align: center
@@ -137,7 +137,7 @@
 .. figure:: /images/measure-time_chart.png
     :align: center
     :figwidth: 60%
-    :name: img_measure-time_chart
+    :name: img_measure_time_chart
 
     查看数据曲线
 
