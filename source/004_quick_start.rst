@@ -17,6 +17,7 @@
 
 .. figure:: /images/new_experiment.png
     :align: center
+    :figwidth: 60%
     :name: new_experiment 
 
     新建试验项目
@@ -50,8 +51,8 @@
 (g) 回到主窗口后，软件会自动根据设备配置信息搜索设备，搜索到之后设备指示标志会变为绿色 :numref:`search_device` 。在状态栏中，最左侧的图标表示当前连接设备状态，状态含义参考 :numref:`device_state` 。点击此图标可以手动连接设备。
 
 .. figure:: /images/search_device.png
-    :width: 600px
     :align: center
+    :figwidth: 60%
     :name: search_device 
 
     设备连接状态
@@ -109,6 +110,7 @@
 
 .. figure:: /images/frm_data_selector.png
     :align: center
+    :figwidth: 60%
     :name: img_data_selector 
 
     数据选择窗口
@@ -117,6 +119,7 @@
 
 .. figure:: /images/table_control.png
     :align: center
+    :figwidth: 60%
     :name: img_table_control
 
     数据选择完成
@@ -125,6 +128,7 @@
 
 .. figure:: /images/frm_data_selector-select_ch.png
     :align: center
+    :figwidth: 60%
     :name: img_select_ch
 
     选择数据曲线
@@ -132,6 +136,7 @@
 
 .. figure:: /images/measure-time_chart.png
     :align: center
+    :figwidth: 60%
     :name: img_measure-time_chart
 
     查看数据曲线
@@ -229,6 +234,7 @@
 
 .. figure:: /images/frm_data_selector_from_file.png
     :align: center
+    :figwidth: 60%
     :name: img_frm_data_selector_from_file
 
     选择文件中的数据
@@ -236,6 +242,7 @@
 
 .. figure:: /images/data_of_file.png
     :align: center
+    :figwidth: 60%
     :name: img_data_of_file
 
     文件中的数据
