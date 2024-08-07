@@ -8,14 +8,13 @@ Mealysis软件使用手册
 
 .. toctree::
    :maxdepth: 2
+   :caption: 目录
    
-   001_introduction.rst
-   002_installation.rst
-   003_user_interface.rst
-   004_quick_start.rst
-   005_function_operation.rst
-   006_python_api.rst
-   007_reference.rst
+   introduction/index.rst
+   installation/index.rst
+   user_guide/index.rst
+   reference/index.rst
+   troubleshooting/index.rst
 
 
 附录及索引
