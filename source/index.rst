@@ -17,9 +17,9 @@ Mealysis软件使用手册
    troubleshooting/index.rst
 
 
-附录及索引
-==================
+.. 附录及索引
+.. ==================
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+.. * :ref:`genindex`
+.. * :ref:`modindex`
+.. * :ref:`search`

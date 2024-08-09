@@ -12,6 +12,7 @@
    data_acquisition.rst
    data_analysis.rst
    record.rst
+   review.rst
    export.rst
    can_setting.rst
    puma_setting.rst
