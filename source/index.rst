@@ -13,8 +13,9 @@ Mealysis软件使用手册
    introduction/index.rst
    installation/index.rst
    user_guide/index.rst
+   quick_guide/index.rst
    reference/index.rst
-   troubleshooting/index.rst
+..   troubleshooting/index.rst
 
 
 .. 附录及索引
